@@ -16,16 +16,16 @@
 
 // ** MySQL ayarları - Bu bilgileri sunucunuzdan alabilirsiniz ** //
 /** WordPress için kullanılacak veritabanının adı */
-define( 'DB_NAME', 'etliogullari_wp' );
+define( 'DB_NAME', 'sql11395429' );
 
 /** MySQL veritabanı kullanıcısı */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'sql11395429' );
 
 /** MySQL veritabanı parolası */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '71neIIMirl' );
 
 /** MySQL sunucusu */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'sql11.freesqldatabase.com' );
 
 /** Yaratılacak tablolar için veritabanı karakter seti. */
 define( 'DB_CHARSET', 'utf8mb4' );
